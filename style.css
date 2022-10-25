@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: green;
+  background-color: lightblue;
+  font-family: Arial;
+  font-size: 30;
+}
+
+table, th, td {
+  border:1px solid black;
+}
