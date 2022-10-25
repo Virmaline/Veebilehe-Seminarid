@@ -16,3 +16,12 @@ h1 {
 table, th, td {
   border:1px solid black;
 }
+
+img {
+      border:2px solid #fff;
+      background: url(img/tartu.jpg) no-repeat;
+      box-shadow: 10px 10px 5px #ccc;
+      -moz-box-shadow: 10px 10px 5px #ccc;
+      -webkit-box-shadow: 10px 10px 5px #ccc;
+      -khtml-box-shadow: 10px 10px 5px #ccc;
+    }
